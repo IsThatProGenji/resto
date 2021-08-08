@@ -11,7 +11,7 @@ session_start();
 <h1>Pelayan</h1>
 
 <a href="pesanan-tambah.php">Tambah Pesanan</a>
-<a href="Menu.php">Menu</a>
+<a href="menu.php">Menu</a>
 <hr>
 Hello, <?php echo $user_data['username']; ?>
 <br>
